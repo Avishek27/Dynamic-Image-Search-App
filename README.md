@@ -36,9 +36,7 @@ The Dynamic Image Search App is a web application that allows users to search fo
 
 ## Usage
 
-1. Visit the live demo [here](#) (replace with your demo link).
-2. Enter keywords in the search bar to dynamically retrieve and display images.
-3. Explore the search history to revisit previous queries.
+1. Enter keywords in the search bar to dynamically retrieve and display images.
 
 ## Technologies Used
 
